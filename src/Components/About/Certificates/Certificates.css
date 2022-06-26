@@ -1,0 +1,100 @@
+
+
+.single_award{
+    background:#102048 !important;
+    padding: 20px;
+    border-radius: 5px !important;
+    border-bottom: 1px solid #7865ff;
+    width: 46%;
+}
+
+.single_award h6 a{
+    font-weight: 500 !important;
+    color: #fff;
+    text-decoration: none;
+}
+.award_title span{
+    font-weight: 300 !important;
+    color: #fff;
+    opacity:70%  !important;
+    font-size: .9rem;
+}
+.award_year{
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+
+@media(max-width:992px){
+    .award_title{
+        font-size:.8rem;
+    }
+    .award_title span{
+        font-size:.7rem;
+    }
+    .award_year{
+        font-size: .7rem ;
+    }
+}
+@media(max-width:576px){
+    .award_title{
+        font-size:.8rem;
+    }
+    .award_title span{
+        font-size:.7rem;
+    }
+    .award_year{
+        font-size: .7rem ;
+    }
+    .awrd_container{
+        flex-direction: column;
+        
+    }
+    .single_award{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

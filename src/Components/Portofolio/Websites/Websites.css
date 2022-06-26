@@ -1,0 +1,114 @@
+.porto_top {
+    color: #7865ff;
+    margin-bottom: 15px;
+}
+
+.porto_card {
+    position: relative;
+    z-index: 90;
+    overflow: hidden;
+
+}
+
+.porto_content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #7765ffcb;
+    z-index: 91;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transform: translateY(-100%);
+    opacity: 0;
+    border-radius: 5px;
+}
+
+.porto_card:hover .porto_content {
+    transform: translateY(0);
+    opacity: 1;
+    transition: .3s;
+}
+
+.porto_content a {
+    color: rgba(255, 255, 255, 0.459);
+    text-decoration: none;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border: 3px solid rgba(0, 0, 255, 0.322);
+    padding: 15px 30px;
+    font-weight: 500;
+    border-radius: 5px;
+    transition: .3s;
+}
+
+.porto_content a:hover {
+    border: 3px solid rgb(0, 0, 255);
+    color: #fff;
+}
+
+.porto_content h5 {
+    color: #fff;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.porto_img img {
+    border-radius: 5px;
+    width: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block
+}
+
+.btn {
+    color: #fff !important;
+    font-weight: 500;
+
+}
+
+
+.showBtn {
+    display: block !important;
+}
+
+
+
+@media (max-width:1024px) {
+    .porto_content a {
+        font-size: 1.rem;
+        border: 3px solid rgba(0, 0, 255, 0.322);
+        padding: 8px 10px;
+    }
+
+    .porto_content h5 {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width:776px) {
+    .porto_content a {
+        font-size: 1rem;
+        border: 2px solid rgba(0, 0, 255, 0.322);
+        padding: 8px 20px;
+    }
+
+}
+
+@media (max-width:576px) {
+    .porto_content a {
+        font-size: .8rem;
+        border: 1px solid rgba(0, 0, 255, 0.322);
+        padding: 5px 15px;
+    }
+
+}
