@@ -18,6 +18,11 @@ import storm from "../../assets/designes/storm.jpg"
 import coloredFace from "../../assets/designes/coloredFace.png"
 import triangleGirl from "../../assets/designes/triangleGirl.png"
 import sandFace from "../../assets/designes/sandFace.jpg"
+import crackedSoul from "../../assets/designes/crackedSoul.png"
+import glassGirl from "../../assets/designes/glassGirl.png"
+import ball from "../../assets/designes/ball.png"
+import bird from "../../assets/designes/bird.png"
+
 const DesignesData =[
     {img:spaceGirl,  name: "spaceGirl"},
     {img:sandFace, name: "sandFace"},
@@ -30,7 +35,7 @@ const DesignesData =[
     {img:triangleGirl, class: "hide ",name: "triangleGirl"},
     {img:coloredFace, class: "hide ",name: "coloredFace"},
     {img:glass, class: "hide ",name: "glass"},
-    {img:fireFlower, class: "hide ",name: "fireFlower"},
+    {img:ball, class: "hide ",name: "ball"},
     {img:crackedGirl, class: "hide ",name: "crackedGirl"},
     {img:childCave, class: "hide ",name: "childCave"},
     {img:img11, class: "hide ",name: "img11"},
@@ -39,6 +44,10 @@ const DesignesData =[
     {img:img14, class: "hide ",name: "img14"},
     {img:img15, class: "hide ",name: "img15"},
     {img:queen, class: "hide ",name: "queen"},
+    {img:crackedSoul, class: "hide ",name: "crackedSoul"},
+    {img:glassGirl, class: "hide ",name: "glassGirl"},
+    {img:bird, class: "hide ",name: "bird"},
+    {img:fireFlower, class: "hide ",name: "fireFlower"},
 ]
 export default DesignesData
 

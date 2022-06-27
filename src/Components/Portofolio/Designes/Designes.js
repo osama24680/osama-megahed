@@ -28,7 +28,7 @@ const Portofolio = () => {
                 <Row>
                     <Col lg="12" className="design_top mb-5">
                         <h6>Explore my work</h6>
-                        <h2>Designes</h2>
+                        <h2>Gallery</h2>
                     </Col>
                 </Row>
                 <div className='allImages'>
@@ -42,7 +42,7 @@ const Portofolio = () => {
 
 
                 <div className="d-flex justify-content-center align-items-center  text-center w-100">
-                    <button onClick={showHideSites} className="btn px-4 py-2 showBtn">{word}</button>
+                    <button onClick={showHideSites} className="btn px-4 py-2 showBtn mt-3">{word}</button>
                 </div>
 
                 

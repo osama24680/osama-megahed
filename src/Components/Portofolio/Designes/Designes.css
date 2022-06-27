@@ -81,8 +81,9 @@ img {
 .gamingPoster {
     grid-column: 1/6
 }
-
-
+.crackedSoul{
+    grid-column: 2/4
+}
 
 
 
