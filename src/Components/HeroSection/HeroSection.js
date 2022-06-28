@@ -25,7 +25,7 @@ const HeroSection = () => {
                             <p>
                                 I can be reached anytime
                             </p>
-                            <div className=" mt-4 hero_btns d-flex align-items-center gap-4">
+                            <div className=" mt-4 hero_btns d-flex align-items-center gap-4" id="contactBtns">
                                 <button className="btn hire_btn"><a href="#contact">Hire Me</a></button>
                                 <button className="btn "><a href={CV} download>CV</a></button>
                                 

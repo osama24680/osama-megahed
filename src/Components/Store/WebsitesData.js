@@ -1,6 +1,7 @@
 import instagram from "../../assets/websites/instagram.jpg"
 import entertainHub from "../../assets/websites/entertainHub.jpg"
 import mobileCommerce from "../../assets/websites/mobile.png"
+import recipes from "../../assets/websites/recipes.jpg"
 // import netflix from "../../assets/websites/netflix.jpg"
 // import movies from "../../assets/websites/movies.jpg"
 import party from "../../assets/websites/party.png"
@@ -30,6 +31,7 @@ const websitesData = [
     { img: instagram, title: "instagram", uncompleted:true, },
     { img: entertainHub, title: "Cinema Club", live: "https://stately-tanuki-159450.netlify.app", code: "https://github.com/osama24680/movies" },
     { img: mobileCommerce, title: "Mobile Market", live: "https://ecmmerce-phones-osama.netlify.app", code: "https://github.com/osama24680/ReactPhone" },
+    { img: recipes, title: "Recipes", live: "https://recipes-5ia.pages.dev", code: "https://github.com/osama24680/Recipes" },
     // { img: netflix, title: "Netflix Clone", live: "https://musical-clafoutis-07f905.netlify.app", code: "https://github.com/osama24680/NetflixClone" },
     // { img: movies, title: "Movies clone with Form", live: "https://react-movies-osama.netlify.app", code: "https://github.com/osama24680/ReactMovies" },
     { img: party, title: "Party announcement", live: "https://osama24680.github.io/party/", code: "https://github.com/osama24680/party" },
