@@ -22,6 +22,7 @@ import crackedSoul from "../../assets/designes/crackedSoul.png"
 import glassGirl from "../../assets/designes/glassGirl.png"
 import ball from "../../assets/designes/ball.png"
 import bird from "../../assets/designes/bird.png"
+import amir from "../../assets/designes/amir.jpg"
 
 const DesignesData =[
     {img:spaceGirl,  name: "spaceGirl"},
@@ -48,6 +49,7 @@ const DesignesData =[
     {img:glassGirl, class: "hide ",name: "glassGirl"},
     {img:bird, class: "hide ",name: "bird"},
     {img:fireFlower, class: "hide ",name: "fireFlower"},
+    {img:amir, class: "hide ",name: "amir"},
 ]
 export default DesignesData
 
