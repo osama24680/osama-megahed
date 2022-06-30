@@ -1,5 +1,5 @@
 import instagram from "../../assets/websites/instagram.jpg"
-import entertainHub from "../../assets/websites/entertainHub.jpg"
+import CinemaClub from "../../assets/websites/entertainHub.jpg"
 import mobileCommerce from "../../assets/websites/mobile.png"
 import recipes from "../../assets/websites/recipes.jpg"
 // import netflix from "../../assets/websites/netflix.jpg"
@@ -29,7 +29,7 @@ import tourism from "../../assets/websites/world.png"
 
 const websitesData = [
     { img: instagram, title: "instagram", uncompleted:true, },
-    { img: entertainHub, title: "Cinema Club", live: "https://stately-tanuki-159450.netlify.app", code: "https://github.com/osama24680/movies" },
+    { img: CinemaClub, title: "Cinema Club", live: "https://cinemaclub.pages.dev", code: "https://github.com/osama24680/CinemaClub" },
     { img: mobileCommerce, title: "Mobile Market", live: "https://ecmmerce-phones-osama.netlify.app", code: "https://github.com/osama24680/ReactPhone" },
     { img: recipes, title: "Recipes", live: "https://recipes-5ia.pages.dev", code: "https://github.com/osama24680/Recipes" },
     // { img: netflix, title: "Netflix Clone", live: "https://musical-clafoutis-07f905.netlify.app", code: "https://github.com/osama24680/NetflixClone" },
