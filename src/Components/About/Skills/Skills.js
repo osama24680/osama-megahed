@@ -6,13 +6,13 @@ const Skills = () => {
         { title: "CSS", width: "90%", percentage: "90%" },
         { title: "Bootstrap", width: "90%", percentage: "90%" },
         { title: "SASS", width: "70%", percentage: "70%" },
-        { title: "JavaScipt", width: "80%", percentage: "80%" },
+        { title: "JavaScipt", width: "90%", percentage: "90%" },
         { title: "OOP", width: "60%", percentage: "60%" },
         { title: "jQuery", width: "65%", percentage: "65%" },
-        { title: "React.js", width: "70%", percentage: "70%" },
+        { title: "React.js", width: "85%", percentage: "85%" },
         { title: "Material UI", width: "80%", percentage: "80%" },
-        { title: "ContextAPI", width: "70%", percentage: "70%" },
-        { title: "Redux", width: "60%", percentage: "60%" },
+        { title: "ContextAPI", width: "75%", percentage: "75%" },
+        { title: "Redux", width: "50%", percentage: "50%" },
     ]
 
     return (
