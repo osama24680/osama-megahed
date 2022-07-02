@@ -1,4 +1,5 @@
 import instagram from "../../assets/websites/instagram.jpg"
+import blog from "../../assets/websites/blog.jpg"
 import CinemaClub from "../../assets/websites/entertainHub.jpg"
 import mobileCommerce from "../../assets/websites/mobile.png"
 import recipes from "../../assets/websites/recipes.jpg"
@@ -31,6 +32,7 @@ const websitesData = [
     { img: instagram, title: "instagram", uncompleted:true, },
     { img: CinemaClub, title: "Cinema Club", live: "https://cinemaclub.pages.dev", code: "https://github.com/osama24680/CinemaClub" },
     { img: mobileCommerce, title: "Mobile Market", live: "https://ecmmerce-phones-osama.netlify.app", code: "https://github.com/osama24680/ReactPhone" },
+    { img: blog, title: "Vera", live: "https://vera-green.vercel.app", code: "https://github.com/osama24680/Vera" },
     { img: recipes, title: "Recipes", live: "https://recipes-5ia.pages.dev", code: "https://github.com/osama24680/Recipes" },
     // { img: netflix, title: "Netflix Clone", live: "https://musical-clafoutis-07f905.netlify.app", code: "https://github.com/osama24680/NetflixClone" },
     // { img: movies, title: "Movies clone with Form", live: "https://react-movies-osama.netlify.app", code: "https://github.com/osama24680/ReactMovies" },
