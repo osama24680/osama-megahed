@@ -10,11 +10,11 @@ import quiz from "../../assets/websites/quiz.jpg"
 import loginForm from "../../assets/websites/loginForm.jpg"
 import bookMarker from "../../assets/websites/bookMarker.jpg"
 import weather from "../../assets/websites/weather.jpg"
-import portofolio1 from "../../assets/websites/portofolio1.png"
-import portofolio2 from "../../assets/websites/portofolio2.png"
-import portofolio3 from "../../assets/websites/portofolio3.png"
-import portofolio4 from "../../assets/websites/portofolio4.png"
-import portofolio5 from "../../assets/websites/portofolio5.png"
+// import portofolio1 from "../../assets/websites/portofolio1.png"
+// import portofolio2 from "../../assets/websites/portofolio2.png"
+// import portofolio3 from "../../assets/websites/portofolio3.png"
+// import portofolio4 from "../../assets/websites/portofolio4.png"
+// import portofolio5 from "../../assets/websites/portofolio5.png"
 import languages from "../../assets/websites/languages.jpg"
 import Covid from "../../assets/websites/Covid.jpg"
 import coffe from "../../assets/websites/coffe.jpg"
@@ -41,11 +41,11 @@ const websitesData = [
     { img: loginForm, title: "Login Form", live: "https://osama24680.github.io/loginForm/", code: "https://github.com/osama24680/loginForm" },
     { img: bookMarker, title: "Book Marker", live: "https://osama24680.github.io/bookmarker/", code: "https://github.com/osama24680/bookmarker" },
     { img: weather, title: "Weather", live: "https://osama24680.github.io/globalWeather/", code: "https://github.com/osama24680/globalWeather" },
-    { img: portofolio1, title: "portofolio v1", live: "https://osama24680.github.io/puplic_portofolio1/", code: "https://github.com/osama24680/puplic_portofolio1" },
-    { img: portofolio2, title: "portofolio v2", live: "https://osama24680.github.io/puplic_portofolio2/", code: "https://github.com/osama24680/puplic_portofolio2", class: "hide" },
-    { img: portofolio3, title: "portofolio v3", live: "https://osama24680.github.io/-puplic_portofolio3/", code: "https://github.com/osama24680/-puplic_portofolio3", class: "hide" },
-    { img: portofolio4, title: "portofolio v4", live: "https://osama24680.github.io/portofolio/", code: "https://github.com/osama24680/portofolio", class: "hide" },
-    { img: portofolio5, title: "portofolio v5", live: "https://relaxed-pixie-814043.netlify.app", code: "https://github.com/osama24680/portofolio_V5", class: "hide" },
+    // { img: portofolio1, title: "portofolio v1", live: "https://osama24680.github.io/puplic_portofolio1/", code: "https://github.com/osama24680/puplic_portofolio1" },
+    // { img: portofolio2, title: "portofolio v2", live: "https://osama24680.github.io/puplic_portofolio2/", code: "https://github.com/osama24680/puplic_portofolio2", class: "hide" },
+    // { img: portofolio3, title: "portofolio v3", live: "https://osama24680.github.io/-puplic_portofolio3/", code: "https://github.com/osama24680/-puplic_portofolio3", class: "hide" },
+    // { img: portofolio4, title: "portofolio v4", live: "https://osama24680.github.io/portofolio/", code: "https://github.com/osama24680/portofolio", class: "hide" },
+    // { img: portofolio5, title: "portofolio v5", live: "https://relaxed-pixie-814043.netlify.app", code: "https://github.com/osama24680/portofolio_V5", class: "hide" },
     { img: languages, title: "languages Learning", live: "https://osama24680.github.io/6-A-app/", code: "https://github.com/osama24680/6-A-app/tree/master", class: "hide" },
     { img: Covid, title: "Covid 19", live: "https://osama24680.github.io/5-corona/", code: "https://github.com/osama24680/5-corona", class: "hide" },
     { img: coffe, title: "Coffe Shop", live: "https://osama24680.github.io/7-coffeShop/", code: "https://github.com/osama24680/7-coffeShop/tree/master", class: "hide" },
