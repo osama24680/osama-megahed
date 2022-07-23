@@ -30,7 +30,7 @@ import tourism from "../../assets/websites/world.png"
 
 
 const websitesData = [
-    { img: instagram, title: "instagram", uncompleted:true, },
+    // { img: instagram, title: "instagram", uncompleted:true, },
     { img: CinemaClub, title: "Cinema Club", live: "https://cinemaclub.pages.dev", code: "https://github.com/osama24680/CinemaClub" },
     { img: mobileCommerce, title: "Mobile Market", live: "https://reactphone.pages.dev", code: "https://github.com/osama24680/ReactPhone" },
     { img: blog, title: "Vera", live: "https://vera-green.vercel.app", code: "https://github.com/osama24680/Vera" },
