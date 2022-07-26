@@ -6,6 +6,7 @@ import BlackGym from "../../assets/websites/black Gym.jpg"
 import recipes from "../../assets/websites/recipes.jpg"
 // import netflix from "../../assets/websites/netflix.jpg"
 // import movies from "../../assets/websites/movies.jpg"
+import q_and_a from "../../assets/websites/q_and_a.jpg"
 import party from "../../assets/websites/party.png"
 import quiz from "../../assets/websites/quiz.jpg"
 // import loginForm from "../../assets/websites/loginForm.jpg"
@@ -28,7 +29,6 @@ import tourism from "../../assets/websites/world.png"
 
 
 
-
 const websitesData = [
     // { img: instagram, title: "instagram", uncompleted:true, },
     { img: CinemaClub, title: "Cinema Club", live: "https://cinemaclub.pages.dev", code: "https://github.com/osama24680/CinemaClub" },
@@ -36,6 +36,7 @@ const websitesData = [
     { img: blog, title: "Vera", live: "https://vera-green.vercel.app", code: "https://github.com/osama24680/Vera" },
     { img: BlackGym, title: "BlackGym", live: "https://black-gym.vercel.app", code: "https://github.com/osama24680/Black-Gym" },
     { img: recipes, title: "Recipes", live: "https://recipes-5ia.pages.dev", code: "https://github.com/osama24680/Recipes" },
+    { img: q_and_a, title: "Questions and Answers", live: "https://q-and-a.pages.dev", code: "https://github.com/osama24680/Q_and_A" },
     // { img: netflix, title: "Netflix Clone", live: "https://musical-clafoutis-07f905.netlify.app", code: "https://github.com/osama24680/NetflixClone" },
     // { img: movies, title: "Movies clone with Form", live: "https://react-movies-osama.netlify.app", code: "https://github.com/osama24680/ReactMovies" },
     { img: party, title: "Party announcement", live: "https://osama24680.github.io/party/", code: "https://github.com/osama24680/party" },
