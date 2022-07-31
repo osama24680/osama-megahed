@@ -19,6 +19,7 @@ import weather from "../../assets/websites/weather.jpg"
 // import portofolio3 from "../../assets/websites/portofolio3.png"
 // import portofolio4 from "../../assets/websites/portofolio4.png"
 // import portofolio5 from "../../assets/websites/portofolio5.png"
+import generatePassword from "../../assets/websites/generatePassword.jpeg"
 import languages from "../../assets/websites/languages.jpg"
 import Covid from "../../assets/websites/Covid.jpg"
 // import coffe from "../../assets/websites/coffe.jpg"
@@ -46,6 +47,7 @@ const websitesData = [
     { img: quiz, title: "Quiz", live: "https://osama24680.github.io/quiz/", code: "https://github.com/osama24680/quiz" },
     { img: weather, title: "Weather", live: "https://osama24680.github.io/globalWeather/", code: "https://github.com/osama24680/globalWeather" },
     { img: bookMarker, title: "Book Marker", live: "https://osama24680.github.io/bookmarker/", code: "https://github.com/osama24680/bookmarker" },
+    { img: generatePassword, title: "Generate Password", live: "https://osama24680.github.io/generatePassword/", code: "https://github.com/osama24680/generatePassword" },
     { img: languages, title: "languages Learning", live: "https://osama24680.github.io/6-A-app/", code: "https://github.com/osama24680/6-A-app/tree/master" },
     { img: Covid, title: "Covid 19", live: "https://osama24680.github.io/5-corona/", code: "https://github.com/osama24680/5-corona" },
     // { img: loginForm, title: "Login Form", live: "https://osama24680.github.io/loginForm/", code: "https://github.com/osama24680/loginForm" , class: "hide"},
