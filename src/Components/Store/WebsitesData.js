@@ -4,6 +4,7 @@ import CinemaClub from "../../assets/websites/entertainHub.jpg"
 import mobileCommerce from "../../assets/websites/mobile.png"
 import BlackGym from "../../assets/websites/black Gym.jpg"
 import recipes from "../../assets/websites/recipes.jpg"
+import movies from "../../assets/websites/movies.jpg"
 import menu from "../../assets/websites/menu.jpg"
 import q_and_a from "../../assets/websites/q_and_a.jpg"
 // import netflix from "../../assets/websites/netflix.jpg"
@@ -39,6 +40,7 @@ const websitesData = [
     { img: blog, title: "Vera", live: "https://vera-green.vercel.app", code: "https://github.com/osama24680/Vera" },
     { img: BlackGym, title: "BlackGym", live: "https://black-gym.vercel.app", code: "https://github.com/osama24680/Black-Gym" },
     { img: recipes, title: "Recipes", live: "https://recipes-5ia.pages.dev", code: "https://github.com/osama24680/Recipes" },
+    { img: movies, title: "movies", live: "https://movies-va6.pages.dev", code: "https://github.com/osama24680/movies" },
     { img: menu, title: "menu", live: "https://menu-7qp.pages.dev", code: "https://github.com/osama24680/Menue" },
     { img: q_and_a, title: "Questions and Answers", live: "https://q-and-a.pages.dev", code: "https://github.com/osama24680/Q_and_A" },
     // { img: netflix, title: "Netflix Clone", live: "https://musical-clafoutis-07f905.netlify.app", code: "https://github.com/osama24680/NetflixClone" },
